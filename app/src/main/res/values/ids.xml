@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loginLogo" type="id">@+id/loginLogo</item>
+    <item name="textLogin" type="id">@+id/textLogin</item>
+    <item name="linkRegister" type="id">@+id/linkRegister</item>
+    <item name="forgotPass" type="id">@+id/forgotPass</item>
+    <item name="userEmail" type="id">@+id/userEmail</item>
+    <item name="passWord" type="id">@+id/passWord</item>
+    <item name="loginBtn" type="id">@+id/loginBtn</item>
+</resources>
